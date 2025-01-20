@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pushpendra Raj
-- 👀 I’m interested in Data Science, Machine Learning , Artifical Intelligence And associated programmes
-- - 🌱 I’m currently doing advancement in Machine Learing
+- 👀 I’m interested in Data Science, Machine Learning , Artificial Intelligence, And associated programmes
+- - 🌱 I’m currently doing advancement in Machine learning Modeling
 - 💞️ I’m looking to collaborate in Data Domain.
 - 📫 reach me @raj.pushpendra1@gmail.com
 
